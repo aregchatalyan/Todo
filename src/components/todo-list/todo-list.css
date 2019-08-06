@@ -1,0 +1,19 @@
+.todo-list .list-group-item {
+    padding: .25rem 0;
+}
+
+.list {
+    border-left: 0;
+    border-right: 0;
+}
+
+.todo-list {
+    text-indent: 10px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.todo-list.active  {
+    background-color: #557a4f;
+    border: none;
+}

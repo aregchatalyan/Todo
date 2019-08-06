@@ -1,0 +1,7 @@
+.check {
+  cursor: pointer;
+}
+
+.todo-item.done .todo-item-label {
+  opacity: .4;
+}

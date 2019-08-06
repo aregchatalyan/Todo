@@ -1,0 +1,10 @@
+.item-add-panel {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 5px;
+}
+
+.item-add-panel .new-item-label {
+    margin-right: 5px;
+}
